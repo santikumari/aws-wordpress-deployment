@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+wp-config.php
+*.log
+*.swp
+.idea/
+.vscode/
+*.bak
+*.tar.gz
+*.zip
