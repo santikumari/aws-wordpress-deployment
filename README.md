@@ -144,8 +144,3 @@ Add Auto Scaling Group for traffic spikes
 Santhi Kumari
 Cloud & DevOps Enthusiast 🌩 | Exploring AWS, Linux, Networking, and Automation
 
-
----
-
-👉 You can just copy-paste this into your README.md.
-Would you like me to also generate the GitHub repository folder structure (with sample files like wp-config-sample.php, diagram.png placeholder, etc.) so you can push everything directly?
